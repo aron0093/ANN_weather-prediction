@@ -1,6 +1,6 @@
 # ANN_weather_prediction
 
-Historical weather data from Basel is used to predict the amount of *Short wave radiation* on a hourly basis. The data covers 1863 days from 07/2013 to 07/2018. The model is tested on data from 07/2012 to 07/2013.
+Historical weather data from Basel is used to predict the amount of *Short wave radiation* on a hourly basis. The data covers 1863 days from 07/2013 to 07/2018. The model is tested on data from 07/2012 to 07/2013. *Currently, this model is not useful as it only predicts for the day, the input variable values were measured.*
 
 The input variables used were,
 
